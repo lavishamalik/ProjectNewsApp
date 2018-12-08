@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "750530702933",
+    "firebase_url": "https://newsappforpitching.firebaseio.com",
+    "project_id": "newsappforpitching",
+    "storage_bucket": "newsappforpitching.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750530702933:android:2efe066444cdae1c",
+        "android_client_info": {
+          "package_name": "com.codingblocks.newsappforpitching"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750530702933-411j10duhc333psonsmbtngpm4b95gbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingblocks.newsappforpitching",
+            "certificate_hash": "437eece9a15a9bd0468603a7d01619e0d6626af7"
+          }
+        },
+        {
+          "client_id": "750530702933-a5eavrfv4nqa9hnfe38u91blvlo9bv3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyt1T1EVaQsuumonOwQ41EFAm6TA9RVD4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750530702933-a5eavrfv4nqa9hnfe38u91blvlo9bv3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
